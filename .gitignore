@@ -1,0 +1,5 @@
+.env
+raghaystackenv/
+tutorial.ipynb
+*.idea*
+RAG_with_Haystack.egg-info/
