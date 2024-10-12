@@ -3,3 +3,5 @@ raghaystackenv/
 tutorial.ipynb
 *.idea*
 RAG_with_Haystack.egg-info/
+__pycache__/
+*.py[cod]
